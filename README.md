@@ -1,0 +1,1 @@
+# Wildlife-Fire-Prediction-and-Detection-in-Uttrakhand
